@@ -20,3 +20,7 @@ Detailed usage instructions have already been provided in the Project Structure 
 
 ### Related Links
 Rick and Morty API: https://rickandmortyapi.com/
+
+### License
+MIT
+
