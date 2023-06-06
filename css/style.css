@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  background-image: url('https://external-preview.redd.it/S56GfES9JvoqfWRsKcDKcKQQvw8cukgPicMjV6QDGqE.jpg?auto=webp&s=071d7b0a3b4dbfa887a6b92666e2ff06424d29ae');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 10px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 0.3em;
+}
+
+p {
+  font-size: large;
+}
+
+input,
+button {
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 20px;
+  border-radius: 0.2rem;
+  /* -webkit-appearance: none; */
+}
+
+input {
+  border: 1px solid lightgray;
+  margin-right: 0.4em;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  border: 1px solid transparent;
+  background: #be218f;
+  color: white;
+  cursor: pointer;
+}
+
+#wrapper {
+  background: #000000c2;
+  width: 85vw;
+  height: 100%;
+  text-align: center;
+  margin: 4em auto;
+  padding: 1em;
+}
+
+#characters {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  margin: 30px;
+}
+
+/* Navigation Bar Styling */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, .7);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: 600;
+}
+
+li a:hover {
+  color: #be218f;
+}
