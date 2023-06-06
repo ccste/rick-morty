@@ -11,6 +11,12 @@ This page provides an input field for users to enter a character's name and perf
 This page autofills the character ID from the URL parameter into the input field, but users can manually enter other character IDs as well. Clicking on the Find Characters button displays detailed information about the character, including the character's name, status, species, gender, and origin.
 
 ### Installation and Running
-1. Clone this repository: git clone https://github.com/ccste/rickandmorty.git
-2. Navigate to the project directory: cd rickandmorty
+1. Clone this repository: git clone https://github.com/ccste/rick-morty.git
+2. Navigate to the project directory: cd rick-morty
 3. Open index.html to start using the application
+
+### Usage
+Detailed usage instructions have already been provided in the Project Structure section above.
+
+### Related Links
+Rick and Morty API: https://rickandmortyapi.com/
