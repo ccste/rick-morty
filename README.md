@@ -24,4 +24,4 @@ Rick and Morty API: https://rickandmortyapi.com/
 ### License
 MIT
 
-Thank you for visiting, and I hope this Rick and Morty repository is helpful to you! If you have any questions about this repository, please ask me through email: lhc0546@126.com
+Thank you for visiting, and I hope this Rick and Morty repository is helpful to you! If you have any questions about this repository, please ask me without hesitation.
